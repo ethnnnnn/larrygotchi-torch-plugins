@@ -1,4 +1,4 @@
-# LARRYGOTCHI-torch-plugins
+# LARRYGOTCHI_plugins
 
 ![Larry the Cat, aka Evil Larry, Destroyer of the Universe](https://cdn3.emoji.gg/emojis/21098-larry-evil.png)
 
@@ -14,7 +14,7 @@ Edit your `/etc/pwnagotchi/config.toml` to look like this
 
 ```TOML
 main.custom_plugin_repos = [
-    "https://github.com/ethnnnnn/larrygotchi-torch-plugins/archive/master.zip",
+    "https://github.com/ethnnnnn/larrygotchi_plugins/archive/master.zip",
     ]
 ```
 Then run this command: `sudo pwnagotchi plugins update`
